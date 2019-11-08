@@ -119,7 +119,7 @@ int main()
 ## Задание на развилку
 
 $$
-1. y =
+1: y =
 \begin{cases}
 x - 2, & x > 2.5 \\
 1 + x^2, & 0 <= x <= 2.5 \\
@@ -128,7 +128,7 @@ x*ln|cos(x)|, & x < 0
 $$
 
 $$
-2. y =
+2: y =
 \begin{cases}
 1 + \sqrt{cos(x)}, & x > 4 \\
 x + 1, & 0 <= x <= 4 \\
@@ -137,7 +137,7 @@ x + 1, & 0 <= x <= 4 \\
 $$
 
 $$
-3. y =
+3 : y =
 \begin{cases}
 2x, & x > 4.5 \\
 1 - ln|1 - x^2|, & 0 <= x <= 4.5 \\
@@ -145,7 +145,69 @@ e^{-x}, & x < 0
 \end{cases}
 $$
 
-TODO: остальные задания.
+$$
+4: y =
+\begin{cases}
+1+3x, & x > 4.5 \\
+e^{-2x}, & 1 <= x <= 4.5 \\
+cos(2x), & x < 1
+\end{cases}
+$$
+
+$$
+5: y =
+\begin{cases}
+x+1, & x > 2.5 \\
+1-x^5, & 0 <= x <= 2.5 \\
+x+ln|sin(x)|, & x < 0
+\end{cases}
+$$
+
+$$
+6: y =
+\begin{cases}
+\sqrt{ln(x^2-1)}, & x > 2 \\
+2x^3, & 0 <= x <= 2 \\
+e^{sin(x)}, & x < 0
+\end{cases}
+$$
+
+$$
+7: y =
+\begin{cases}
+x^2 - 3 + 2.5x^3, & x > 2 \\
+e^x sin(0.01x), & -1 <= x <= 2 \\
+ln|tan(2x)|, & x < -1
+\end{cases}
+$$
+
+$$
+8: y =
+\begin{cases}
+1-x^4, & x > 4 \\
+-2x, & 0 <= x <= 4 \\
+e^{sin(x)}, & x < 0
+\end{cases}
+$$
+
+$$
+9: y =
+\begin{cases}
+\sqrt{|tan(x)|}, & x > 4.5 \\
+-2x^3, & 1 <= x <= 4.5 \\
+e^{cos(x)}, & x < 1
+\end{cases}
+$$
+
+$$
+10: y =
+\begin{cases}
+x+\sqrt{cos(x)}, & x > 2 \\
+x-4, & 0 <= x <= 2 \\
+1+x^2, & x < 0
+\end{cases}
+$$
+
 
 ## Задание по оператору выбора
 
