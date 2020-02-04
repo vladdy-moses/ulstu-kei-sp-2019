@@ -21,3 +21,7 @@
 6. [Тест №6. Основные принципы ООП](https://drive.google.com/open?id=1rI-RebOmWXmucbuKq05I717kVLZ8ozSy07sboFSLFXE)
 7. [Тест №7. Указатели](https://drive.google.com/open?id=1t-2RyuwOSeqEQdFFWijq21iK0ztN9i7OLvR-i1V2XGM)
 8. [Тест №8. Массивы данных](https://drive.google.com/open?id=1sip2rvXIFY5ckZGEabtdDuRxFQ7PZnkxtuWARpTSalk)
+
+## Очные - 2 семестр
+
+1. [Основные инструкции ассемблера](cw11/README.md)
